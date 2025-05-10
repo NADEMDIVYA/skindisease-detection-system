@@ -6,4 +6,3 @@ openvino-dev                 2024.6.0
 numpy                        1.26.4
 keras                        3.5.0
 openvino                     2024.6.0
-openvino-dev                 2024.6.0
